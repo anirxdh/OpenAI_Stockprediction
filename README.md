@@ -4,7 +4,8 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+# Overview
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+- Using OpenAI and Polygon API using the cloudflare to secure API Keys to predict the stock market.
 
-Happy Coding!
+- Anirudh Vasudevan ( anirudhvasudevan11@gmail.com)
